@@ -3,7 +3,7 @@ The function of this repository is to document my progress working through the f
 # Responsive Web Design
 - [x] Basic HTML & HTML5
 - [x] Basic CSS
-- [ ] Applied Visual Design
+- [x] Applied Visual Design
 - [ ] Applied Accessibility
 - [ ] Responsive Web Design Principles
 - [ ] CSS Flexbox
