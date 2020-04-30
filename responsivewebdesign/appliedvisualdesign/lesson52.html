@@ -23,8 +23,10 @@
   #green {
     background: green;
     left: 75%;
-    animation-timing-function: cubic-bezier(0.311, 0.441, .444, 1.649); <!--This curve has >1 Y2 value causing the object (green ball) to
-    travel further than the other two objects thus simulating a more natural juggling motion. Y-values can exceed 1 where x values are
+    animation-timing-function: cubic-bezier(0.311, 0.441, .444, 1.649); 
+    
+    <!--This curve has a greater than 1 Y2 value causing the object (green ball) to
+    "fall" further than the other two objects thus simulating a more natural juggling motion. Y-values can exceed 1 where x values are
     capped at 1, respective to cubic Bezier curves-->
   }
 
