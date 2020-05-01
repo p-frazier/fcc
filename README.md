@@ -5,7 +5,7 @@ The function of this repository is to document my progress working through the f
 - [x] Basic CSS
 - [x] Applied Visual Design
 - [x] Applied Accessibility
-- [ ] Responsive Web Design Principles
+- [x] Responsive Web Design Principles
 - [ ] CSS Flexbox
 - [ ] CSS Grid
 - [ ] Responsive Web Design Projects
