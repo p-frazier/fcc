@@ -1,34 +1,51 @@
 body {
-  background-color: #cccccc;
-  background-image: url("https://www.transparenttextures.com/patterns/billie-holiday.png");
-  font-family: sans-serif;
-  text-align: center;
+  background-color: #ededed;
+background-image: url("https://www.transparenttextures.com/patterns/concrete-wall-2.png");
 }
 
 #title {
-  font-size: 40px;
+  font-size: 3.0rem;
   font-weight: bold;
   position: relative;
-  border: 
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  padding: 20px;
 }
 #sub-script {
   font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  padding: 20px;
   }
 #img-div {
-  font-size: 15px;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
 }
 #image {
   width: 100%;
   height: auto;
-  max-width: 625px;
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
   display: block;
 }
 #tribute-info {
-    font-size: 18px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px 130px 20px 130px 
 }
 
 #footer {
-  
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}  
+
+#timeline {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5em;
+  margin: 30px
 }
+
+
+
+
