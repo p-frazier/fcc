@@ -2,6 +2,14 @@ body {
   background-color: #ededed;
 background-image: url("https://www.transparenttextures.com/patterns/concrete-wall-2.png");
 }
+.header {  
+  float: center;
+  padding: 10px;
+  text-align: ;
+  background: #38b6f1;
+  color: white;
+  font-size: 40px;
+}
 
 #title {
   font-size: 3.0rem;
@@ -9,13 +17,27 @@ background-image: url("https://www.transparenttextures.com/patterns/concrete-wal
   position: relative;
   font-family: 'Staatliches', cursive;
   letter-spacing: 2px;
-  padding: 20px;
+  padding: 0px 0px 0px 20px;
+  grid-area: header;
 }
 #sub-script {
   font-size: 20px;
   font-family: 'Roboto', sans-serif;
-  padding: 20px;
+  padding: 0px 0px 0px 20px;
+  position: relative;
+  top: -10px;
+  grid-area: subscript;
   }
+#triforce {
+  display: block;
+  float: right;
+  width: 195px;
+  height: auto;
+  position: relative;
+  top: -15px;
+  left: -10px;
+  grid-area: triforce;
+}
 #img-div {
   font-size: 18px;
   font-family: 'Roboto', sans-serif;
@@ -29,15 +51,22 @@ background-image: url("https://www.transparenttextures.com/patterns/concrete-wal
   margin-right: auto;
   display: block;
 }
+
+#img-caption {
+  padding: 10px;
+}
 #tribute-info {
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
-    margin: 20px 130px 20px 130px 
+    margin: auto; 
 }
 
 #footer {
   font-family: 'Roboto', sans-serif;
   text-align: center;
+  font-size: 18px;
+  background: #38b6f1;
+  padding: 10px
 }  
 
 #timeline {
@@ -45,7 +74,6 @@ background-image: url("https://www.transparenttextures.com/patterns/concrete-wal
   font-size: 1.5em;
   margin: 30px
 }
-
 
 
 
