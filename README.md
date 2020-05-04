@@ -7,8 +7,8 @@ The function of this repository is to document my progress working through the f
 - [x] Applied Accessibility
 - [x] Responsive Web Design Principles
 - [x] CSS Flexbox
-- [ ] CSS Grid
-- [ ] Responsive Web Design Projects
+- [x] CSS Grid
+# Responsive Web Design Projects
   - [ ] Tribute Page
   - [ ] Survey Form
   - [ ] Product Landing Page
