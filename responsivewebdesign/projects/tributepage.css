@@ -1,3 +1,14 @@
+html, body {
+  height: 100%;
+}
+
+#container {
+  min-height: 100%;
+}
+#main {
+  overflow: visible;
+  padding-bottom: 30px;
+}
 body {
   background-color: #ededed;
 background-image: url("https://www.transparenttextures.com/patterns/concrete-wall-2.png");
@@ -9,6 +20,9 @@ background-image: url("https://www.transparenttextures.com/patterns/concrete-wal
   background: #38b6f1;
   color: white;
   font-size: 40px;
+  display: grid;
+  align-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 }
 
 #title {
@@ -17,20 +31,20 @@ background-image: url("https://www.transparenttextures.com/patterns/concrete-wal
   position: relative;
   font-family: 'Staatliches', cursive;
   letter-spacing: 2px;
-  padding: 0px 0px 0px 20px;
+  padding: 0px 0px 0px 0px;
   grid-area: header;
 }
 #sub-script {
   font-size: 20px;
   font-family: 'Roboto', sans-serif;
-  padding: 0px 0px 0px 20px;
+  padding: 0px 0px 0px 0px;
   position: relative;
   top: -10px;
   grid-area: subscript;
   }
 #triforce {
   display: block;
-  float: right;
+  float: inherit;
   width: 195px;
   height: auto;
   position: relative;
@@ -56,23 +70,47 @@ background-image: url("https://www.transparenttextures.com/patterns/concrete-wal
   padding: 10px;
 }
 #tribute-info {
-    font-size: 20px;
-    font-family: 'Roboto', sans-serif;
-    margin: auto; 
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  margin: auto; 
+}
+#tribute-info2 {
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  margin: auto;
+  padding: 20px 0 0 0
+}
+#tribute-info3 {
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  margin: auto;
+  padding: 20px 0 0 0
+}
+#text {
+  width: 65%;
+  margin: auto;
 }
 
-#footer {
+#foot {
   font-family: 'Roboto', sans-serif;
   text-align: center;
-  font-size: 18px;
+  font-size: 18 min(400px) 1vw;
   background: #38b6f1;
-  padding: 10px
+  padding: 5px;
+  position: relative;
+  height: 30px;
+  margin-top; -30px;
+  clear: both;
+  width: 100%;
+  
 }  
 
 #timeline {
   font-family: 'Roboto', sans-serif;
-  font-size: 1.5em;
-  margin: 30px
+  font-size: 1.25em;
+  position: relative;
+  top: 50px;
+  padding-bottom: 25px;
 }
 
 
