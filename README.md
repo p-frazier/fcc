@@ -9,8 +9,8 @@ The function of this repository is to document my progress working through the f
 - [x] CSS Flexbox
 - [x] CSS Grid
 # Responsive Web Design Projects
-  - [ ] Tribute Page
-  - [ ] Survey Form
+  - [x] Tribute Page
+  - [x] Survey Form
   - [ ] Product Landing Page
   - [ ] Technical Document Page
   - [ ] Personal Portfolio Webpage
