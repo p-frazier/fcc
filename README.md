@@ -11,7 +11,7 @@ The function of this repository is to document my progress working through the f
 # Responsive Web Design Projects
   - [x] Tribute Page
   - [x] Survey Form
-  - [ ] Product Landing Page
+  - [x] Product Landing Page
   - [ ] Technical Document Page
   - [ ] Personal Portfolio Webpage
   
