@@ -12,7 +12,7 @@ The function of this repository is to document my progress working through the f
   - [x] Tribute Page
   - [x] Survey Form
   - [x] Product Landing Page
-  - [ ] Technical Document Page
+  - [x] Technical Document Page
   - [ ] Personal Portfolio Webpage
   
 # JavaScript Algorithms and Data Structures
