@@ -16,3 +16,18 @@ The function of this repository is to document my progress working through the f
   - [ ] Personal Portfolio Webpage
   
 # JavaScript Algorithms and Data Structures
+- [ ] Basic JavaScript
+- [ ] ES6
+- [ ] Regular Expressions
+- [ ] Debugging
+- [ ] Basic Data Structures
+- [ ] Basic Algorithm Scripting
+- [ ] Object Oriented Programming
+- [ ] Functional Programming
+- [ ] Intermediate Algorithm Scripting
+# JavaScript Algorithms and Data Structures Projects
+  - [ ] Palindrome Checker
+  - [ ] Roman Numeral Converter
+  - [ ] Caesars Cipher
+  - [ ] Telephone Number Validator
+  - [ ] Cash Register
