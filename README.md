@@ -16,7 +16,7 @@ The function of this repository is to document my progress working through the f
   - [ ] Personal Portfolio Webpage
   
 # JavaScript Algorithms and Data Structures
-- [ ] Basic JavaScript
+- [x] Basic JavaScript
 - [ ] ES6
 - [ ] Regular Expressions
 - [ ] Debugging
