@@ -19,7 +19,7 @@ The function of this repository is to document my progress working through the f
 - [x] Basic JavaScript
 - [x] ES6
 - [x] Regular Expressions
-- [ ] Debugging
+- [x] Debugging
 - [ ] Basic Data Structures
 - [ ] Basic Algorithm Scripting
 - [ ] Object Oriented Programming
